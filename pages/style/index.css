@@ -1,0 +1,123 @@
+*{   
+    box-sizing: border-box;
+   margin: 5px;
+   margin-left: 20px;
+   margin-bottom: 5px;
+   padding: 0px;
+   
+ 
+}
+.div-1:hover{
+    background-color:  rgba(254,100,1,255);
+}
+.div-2:hover{
+    background-color: rgba(254,100,1,255);
+}
+.div-3:hover{
+    background-color: rgba(254,100,1,255);
+}
+.AA:hover{
+background-color:  rgba(254,100,1,255);
+}
+.BB:hover{
+    background-color:  rgba(254,100,1,255);
+}
+.CC:hover{
+    background-color:  rgba(254,100,1,255);
+}
+.DD:hover{
+    background-color:  rgba(254,100,1,255);
+}
+.EE:hover{
+    background-color:  rgba(254,100,1,255);
+}
+.FF:hover{
+    background-color:  rgba(254,100,1,255);
+}
+.GG:hover{
+    background-color:  rgba(254,100,1,255);
+}
+
+body{
+   background-color: black;
+}
+@font-face {
+    font-family: myFont;
+    src: url(Poppins-ExtraLight.ttf);
+}
+.AA{
+    color: rgba(248,248,248,255); 
+    background-color: rgba(26,26,26,255)
+}
+.BB{
+    color: rgba(177,177,177,255); 
+    background-color: rgba(26,26,26,255); 
+    font-size: 15px;
+}
+.CC{
+    color: rgba(248,248,248,255); 
+    background-color: rgba(26,26,26,255)
+}
+.DD{
+    color: rgba(177,177,177,255); 
+    background-color: 
+    rgba(26,26,26,255);
+    font-size: 15px;
+}
+.EE{
+    background-color: rgba(26,26,26,255)
+}
+.FF{
+    color: rgba(248,248,248,255); 
+    background-color: rgba(26,26,26,255)
+}
+.GG{
+    color: rgba(177,177,177,255); background-color:
+     rgba(26,26,26,255); 
+     font-size: 15px;
+}
+
+
+
+.my-h1{
+    color: rgba(254,100,1,255);
+    
+}
+.div-1{
+    width: 1130px;
+    height: 170px;  
+    padding: 50px;
+    border: 1px solid rgb(48, 48, 48);
+    border-radius: 8px;
+    cursor:grabbing;
+    background-color: rgba(26,26,26,255);   
+}
+
+
+.div-2{
+    width: 1130px;
+    height: 170px;  
+    padding: 50px;
+    border: 1px solid rgb(48, 48, 48);
+    border-radius: 8px;
+    cursor:pointer; 
+    background-color: rgba(26,26,26,255)
+    
+}
+
+.div-3{
+    width: 1130px;
+    height: 170px;  
+    padding: 50px;
+    border: 1px solid rgb(48, 48, 48);
+    border-radius: 8px;
+    cursor:pointer;
+    background-color: rgba(26,26,26,255);  
+    
+}
+.date{
+    color:rgba(115,115,115,255); 
+    background-color:rgba(26,26,26,255); 
+    font-size: 12px
+}
+
